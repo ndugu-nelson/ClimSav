@@ -9,7 +9,7 @@ This document provides detailed instructions on how to use ClimSav, including in
 2. **Download and Install ClimSav**: Clone the repository and install the necessary dependencies.
 
     ```bash
-    git clone https://github.com/yourusername/climsav.git
+    git clone https://github.com/ndugu-nelson/climsav.git
     cd climsav
     pip install -r requirements.txt
     ```
@@ -46,5 +46,5 @@ This document provides detailed instructions on how to use ClimSav, including in
 To pretrain ClimSav, use:
 
 ```bash
-python src/climax/pretrain/train.py --config <path/to/config>
+python src/ClimSav/pretrain/train.py --config <path/to/config>
 
