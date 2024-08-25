@@ -25,9 +25,6 @@ The **1.40625° data** refers to climate data with a finer spatial resolution of
 - **Fine Resolution (1.40625°)**: Essential for regional and local climate modeling where understanding specific spatial variations is important. It allows for more precise predictions and insights, particularly valuable for applications that require detailed climate information, such as regional forecasting and impact assessments.
 
 ## Stage 1
-
-## Stage 1
-
 In the initial stage of the project, we will utilize existing CMIP6 datasets to train the ClimSav model. Once trained, the model will be tested with data from sensors currently being installed, as well as data extracted from Google APIs. 
 
 We have developed a weather visualization app that will leverage ClimSav's predictions. This app will provide forecasts for 6 hours, 12 hours, 24 hours, and up to 28 days ahead. The predicted weather parameters will be evaluated through a citizen science approach, enabling broad feedback on the accuracy of our forecasts in real-world scenarios.
