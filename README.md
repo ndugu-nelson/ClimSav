@@ -1,7 +1,7 @@
 # ClimSav
 
 This repository hosts a climate model codenamed *ClimSav*, tailored for East African regions. Using advanced climate data and predictive analytics, it provides crucial insights into regional climate patterns, extreme weather events, and long-term climate trends. Designed for researchers, policymakers, and practitioners, this model aims to enhance climate resilience and support sustainable development initiatives in East Africa.
-*ClimSav* is an advanced climate model built upon the insights of an existing *ClimaX*, with significant innovations tailored for East African regions. This model incorporates not only the foundational aspects of *ClimaX* but also introduces enhancements specifically designed for the region, including precipitation prediction and corresponding precipitation percentages.
+*ClimSav* is an advanced climate model built upon the insights of an existing *ClimaX*, with significant innovations tailored for East African regions. This model incorporates not only the foundational aspects of *ClimaX* but also introduces enhancements specifically designed for the region, including precipitation prediction and corresponding precipitation probabilities.
 
 ## Features
 
